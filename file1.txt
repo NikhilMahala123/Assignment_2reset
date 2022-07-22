@@ -1,1 +1,2 @@
-this is file 1 one 
+this is file 1 one
+this is second commit on file 1  in feature 1 branch 
